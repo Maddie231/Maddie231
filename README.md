@@ -14,8 +14,6 @@
 
 I have contributed to a lot of academic projects, but this profile is mostly to share my personal projects. Stay tuned as I gradually share my personal ventures. Feel free to explore, fork, and contribute to any of my public projects. Let's build something amazing together!
 ## Skill Set:
-# Skill Set
-
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) 
